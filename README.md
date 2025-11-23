@@ -5,7 +5,7 @@
 
 A beginner-friendly Java matrimony application built using **arrays instead of collections**.
 This project showcases strong understanding of **core Java, OOP concepts, arrays, and console-based programming**.
-Perfect for resumes, HR screening, and Java beginner portfolios.
+
 
 ##  Features
 ###  Profile Registration
